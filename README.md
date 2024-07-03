@@ -50,11 +50,11 @@ Shows the list of players in the waiting list who are waiting to join a game.
 ## Setup Instructions
 
 1. **Clone the repository**:
-git clone <repository-url>
+git clone git@github.com:radhikashah0499/Rock-paper-scissors.git
 
 
 2. **Navigate to the project directory**:
-cd <project-directory>
+cd Rock-paper-scissors
 
 
 3. **Install dependencies**:
