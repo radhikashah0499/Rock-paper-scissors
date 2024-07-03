@@ -7,7 +7,6 @@ const Game = ({ player1, player2, onGameEnd }) => {
 
     // Function to handle player choice selection
     const handlePlayerChoose = (player, choice) => {
-        console.log('the player',player, 'choice',choice);
         if (player === 'player1') {
             setPlayer1Choice(choice);
         } else if (player === 'player2') {

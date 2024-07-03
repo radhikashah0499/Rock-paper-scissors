@@ -3,7 +3,7 @@ import Lobby from './components/Lobby';
 import Game from './components/Game';
 import Leaderboard from './components/Leaderboard';
 import WaitingList from './components/WaitingList';
-
+import './styles.css';
 const App = () => {
     const [players, setPlayers] = useState([]);
     const [currentGame, setCurrentGame] = useState(null);
